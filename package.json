@@ -28,8 +28,8 @@
   "homepage": "https://github.com/toystars/react-native-multiple-select#readme",
   "dependencies": {
     "native-base": "0.5.18",
-    "react": "15.4.0",
-    "react-native": "0.38.0",
+    "react": "15.4.2",
+    "react-native": "0.41.1",
     "react-native-vector-icons": "2.1.0",
     "underscore": "^1.8.3"
   },
